@@ -27,8 +27,10 @@ Guidance on how to package your app contents and construct your app manifest suc
         ```git clone [URL]```
         
 2. Initialize git submodules:
-        ```git submodule init
-        git submodule update```
+   ```
+   git submodule init
+   git submodule update
+   ```
 
 ## Issues
 ---------
